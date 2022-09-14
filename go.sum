@@ -32,8 +32,8 @@ github.com/Azure/go-autorest/autorest/date v0.3.0/go.mod h1:BI0uouVdmngYNUzGWeSY
 github.com/Azure/go-autorest/autorest/mocks v0.4.1/go.mod h1:LTp+uSrOhSkaKrUy935gNZuuIPPVsHlr9DSOxSayd+k=
 github.com/Azure/go-autorest/logger v0.2.1/go.mod h1:T9E3cAhj2VqvPOtCYAvby9aBXkZmbF5NWuPV8+WeEW8=
 github.com/Azure/go-autorest/tracing v0.6.0/go.mod h1:+vhtPC754Xsa23ID7GlGsrdKBpUA79WCAKPPZVC2DeU=
-github.com/Bidon15/testground v0.5.4-0.20220914145555-30f7af72f5e8 h1:qn0EZVeZ6pZDhfo4bzQNt6qHVVRA7LjF4HUWYsRI3PM=
-github.com/Bidon15/testground v0.5.4-0.20220914145555-30f7af72f5e8/go.mod h1:TqdA8RJu11VBWPEEozl5uUyF14dpB9ZWphmnCWEYNKg=
+github.com/Bidon15/testground v0.5.4-0.20220914160136-95b7bd2e69fa h1:YT0jzDSbkGbrjIE+aIKoI6sjKy82sRuXhSI+XhLEj/E=
+github.com/Bidon15/testground v0.5.4-0.20220914160136-95b7bd2e69fa/go.mod h1:TqdA8RJu11VBWPEEozl5uUyF14dpB9ZWphmnCWEYNKg=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/toml v0.4.1 h1:GaI7EiDXDRfa8VshkTj7Fym7ha+y8/XxIgD2okUIjLw=
 github.com/BurntSushi/toml v0.4.1/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbicEuybxQ=

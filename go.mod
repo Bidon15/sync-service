@@ -2,7 +2,7 @@ module github.com/testground/sync-service
 
 go 1.18
 
-replace github.com/testground/testground => github.com/Bidon15/testground v0.5.4-0.20220914145555-30f7af72f5e8
+replace github.com/testground/testground => github.com/Bidon15/testground v0.5.4-0.20220914160136-95b7bd2e69fa
 
 require (
 	github.com/google/uuid v1.3.0
