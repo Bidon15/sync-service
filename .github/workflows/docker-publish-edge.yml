@@ -27,6 +27,6 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: "bidon15/sync-service:edge"
+          tags: "${{ env.REGISTRY }}/bidon15/sync-service:edge"
           file: ./Dockerfile
           platforms: linux/arm64,linux/amd64
